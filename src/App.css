@@ -56,3 +56,8 @@ li{
   font-weight: 400;
   padding-block: 10px;
 }
+li::marker{
+  font-size: 1.4rem;
+  color: #61DAFB;
+
+}
